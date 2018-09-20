@@ -1,0 +1,19 @@
+{
+  "name": "orionframework",
+  "private": false,
+  "version": "0.8.5-32",
+  "description": "Typescript companion library for the Orion Framework",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "Orion Framework",
+    "email": "orionframework@gmail.com"
+  },
+  "tags": [
+    "orion",
+    "typescript",
+    "typescript-orion",
+    "utils"
+  ],
+  "module": "index"
+}
